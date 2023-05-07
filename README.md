@@ -14,7 +14,7 @@ pip install requests tkinter
 ```
 Once the packages are installed, you can run the application with:
 ```bash
-python apod_viewer.py
+python apod.py
 ```
 ## API Key
 
